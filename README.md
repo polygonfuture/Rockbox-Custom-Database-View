@@ -16,7 +16,16 @@ Genre
 Shuffle Songs
 Search
 
-Feel free to copy and edit this menu for your own rockbox player.
+# How to use this file / Troubleshooting
+*Word of warning:* 
+
+Editing the tagnavi can be slow and frustrating.  You have to make edits, save it to the rockbox device and then restart the device to see the changes in the database.
+
+If you make edits and your menu suddently doesnt work or is broken, it means you have a typo of some sort.  Either bad syntax or you've mispelled something.
+Always try making small changes first, save to device and test.  Once you get a feel of editing the tagnavi then you can start to make larger changes.
+
+**REMEMBER TO MAKE BACKUPS OF YOUR TAGNAVI AS YOU MAKE CHANGES.  IT WILL MAKE YOUR LIFE EASIER**
+
 
 # Important Info / Custom Genre Menu
 The "Genre" menu on the main menu is a custom menu built specifically for my music library and genre tagging styhle.  You need to edit this to fit your own library.  
