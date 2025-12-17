@@ -1,25 +1,26 @@
 # Rockbox-Custom-Database-View
 Custom database view using tagnavi_custom.config
 
-# Info
-
 This file gives you the ability to create custom menus within your database view.   
 
-I've built my own to simplify the main database view.   
+I've built my own to simplify the main database view and to add custom genre menu to match my library.
+You will need to edit this file to match your library or in the way you want to organize your database view.
 
-***For example:**
+### Example of my database view ###
 
-Album Artist
-Album
-Artist
-Genre
-Shuffle Songs
-Search
+- Album Artist
+- Album
+- Artist
+- Genre  `(custom genre menu)`
+- Shuffle Songs
+- Search
 
 # How to use this file / Troubleshooting
 *Word of warning:* 
 
 Editing the tagnavi can be slow and frustrating.  You have to make edits, save it to the rockbox device and then restart the device to see the changes in the database.
+
+### Save the **tagnavi_custom.config** file to your root `.rockbox` folder on your device. ###
 
 If you make edits and your menu suddently doesnt work or is broken, it means you have a typo of some sort.  Either bad syntax or you've mispelled something.
 Always try making small changes first, save to device and test.  Once you get a feel of editing the tagnavi then you can start to make larger changes.
